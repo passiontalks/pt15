@@ -14,11 +14,11 @@
  * Lighter (45%): efa8a3
  */
 
-a {
+a, .pagination > li > a {
   color: #c02b20;
 }
 
-a:hover, a:focus {
+a:hover, a:focus, .pagination > li > a:hover, .pagination > li > a:focus {
   color: #942119;
 }
 
