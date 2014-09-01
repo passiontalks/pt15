@@ -1,0 +1,845 @@
+/*
+ * This theme is derived from:
+ * Bootstrap Docs (http://getbootstrap.com)
+ * Copyright 2011-2014 Twitter, Inc.
+ * Licensed under the Creative Commons Attribution 3.0 Unported License. For
+ * details, see http://creativecommons.org/licenses/by/3.0/.
+ */
+
+/*
+ * Theme colors:
+ * Main: 942119
+ * Darker (5%): 7e1c15
+ * Lighter (10%): c02b20
+ * Lighter (45%): efa8a3
+ */
+
+a {
+  color: #c02b20;
+}
+
+a:hover, a:focus {
+  color: #942119;
+}
+
+/*
+ * Scaffolding
+ *
+ * Update the basics of our documents to prep for docs content.
+ */
+
+body {
+  position: relative; /* For scrollspy */
+}
+
+/* Keep code small in tables on account of limited space */
+.table code {
+  font-size: 13px;
+  font-weight: normal;
+}
+
+/* Outline button for use within the docs */
+.btn-outline {
+  color: #942119;
+  background-color: transparent;
+  border-color: #942119;
+}
+.btn-outline:hover,
+.btn-outline:focus,
+.btn-outline:active {
+  color: #fff;
+  background-color: #942119;
+  border-color: #942119;
+}
+
+/* Inverted outline button (white on dark) */
+.btn-outline-inverse {
+  color: #fff;
+  background-color: transparent;
+  border-color: #efa8a3;
+}
+.btn-outline-inverse:hover,
+.btn-outline-inverse:focus,
+.btn-outline-inverse:active {
+  color: #942119;
+  text-shadow: none;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+/* Bootstrap "B" icon */
+.pti-booticon {
+  display: block;
+  font-weight: 500;
+  color: #fff;
+  text-align: center;
+  cursor: default;
+  background-color: #942119;
+  border-radius: 15%;
+}
+.pti-booticon-sm {
+  width: 30px;
+  height: 30px;
+  font-size: 20px;
+  line-height: 28px;
+}
+.pti-booticon-lg {
+  width: 144px;
+  height: 144px;
+  font-size: 108px;
+  line-height: 140px;
+}
+.pti-booticon-inverse {
+  color: #942119;
+  background-color: #fff;
+}
+.pti-booticon-outline {
+  background-color: transparent;
+  border: 1px solid #efa8a3;
+}
+
+
+/*
+ * Main navigation
+ *
+ * Turn the `.navbar` at the top of the docs purple.
+ */
+
+.pti-nav {
+  margin-bottom: 0;
+  background-color: #fff;
+  border-bottom: 0;
+}
+.bs-home-nav .bs-nav-b {
+  display: none;
+}
+.pti-nav .navbar-brand,
+.pti-nav .navbar-nav > li > a {
+  font-weight: 500;
+  color: #942119;
+}
+.pti-nav .navbar-nav > li > a:hover,
+.pti-nav .navbar-nav > .active > a,
+.pti-nav .navbar-nav > .active > a:hover {
+  color: #7e1c15;
+  background-color: #f9f9f9;
+}
+.pti-nav .navbar-toggle .icon-bar {
+  background-color: #942119;
+}
+.pti-nav .navbar-header .navbar-toggle {
+  border-color: #fff;
+}
+.pti-nav .navbar-header .navbar-toggle:hover,
+.pti-nav .navbar-header .navbar-toggle:focus {
+  background-color: #f9f9f9;
+  border-color: #f9f9f9;
+}
+
+
+/*
+ * Footer
+ *
+ * Separated section of content at the bottom of all pages, save the homepage.
+ */
+
+.pti-footer {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 100px;
+  color: #777;
+  text-align: center;
+  border-top: 1px solid #e5e5e5;
+}
+.pti-footer-links {
+  padding-left: 0;
+  margin-top: 20px;
+  color: #999;
+}
+.pti-footer-links li {
+  display: inline;
+  padding: 0 2px;
+}
+.pti-footer-links li:first-child {
+  padding-left: 0;
+}
+
+@media (min-width: 768px) {
+  .pti-footer p {
+    margin-bottom: 0;
+  }
+}
+
+
+/*
+ * Social buttons
+ *
+ * Twitter and GitHub social action buttons (for homepage and footer).
+ */
+
+.pti-social {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.pti-social-buttons {
+  display: inline-block;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+.pti-social-buttons li {
+  display: inline-block;
+  padding: 5px 8px;
+  line-height: 1;
+}
+.pti-social-buttons .twitter-follow-button {
+  width: 225px !important;
+}
+.pti-social-buttons .twitter-share-button {
+  width: 98px !important;
+}
+/* Style the GitHub buttons via CSS instead of inline attributes */
+.github-btn {
+  overflow: hidden;
+  border: 0;
+}
+
+
+/*
+ * Homepage
+ *
+ * Tweaks to the custom homepage and the masthead (main jumbotron).
+ */
+
+/* Share masthead with page headers */
+.pti-masthead,
+.pti-header {
+  position: relative;
+  padding: 30px 15px;
+  color: #efa8a3;
+  text-align: center;
+  text-shadow: 0 1px 0 rgba(0,0,0,.1);
+  background-color: #7e1c15;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#942119), to(#7e1c15));
+  background-image: -webkit-linear-gradient(top, #942119 0%, #7e1c15 100%);
+  background-image:      -o-linear-gradient(top, #942119 0%, #7e1c15 100%);
+  background-image:         linear-gradient(to bottom, #942119 0%, #7e1c15 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#942119', endColorstr='#7E1C15', GradientType=0);
+  background-repeat: repeat-x;
+}
+
+/* Masthead (headings and download button) */
+.pti-masthead .pti-booticon {
+  margin: 0 auto 30px;
+}
+.pti-masthead h1 {
+  font-weight: 300;
+  line-height: 1;
+  color: #fff;
+}
+.pti-masthead .lead {
+  margin: 0 auto 30px;
+  font-size: 20px;
+  color: #fff;
+}
+.pti-masthead .version {
+  margin-top: -15px;
+  margin-bottom: 30px;
+  color: #9783b9;
+}
+.pti-masthead .btn {
+  width: 100%;
+  padding: 15px 30px;
+  font-size: 20px;
+}
+
+@media (min-width: 480px) {
+  .pti-masthead .btn {
+    width: auto;
+  }
+}
+
+@media (min-width: 768px) {
+  .pti-masthead {
+    padding: 80px 0;
+  }
+  .pti-masthead h1 {
+    font-size: 60px;
+  }
+  .pti-masthead .lead {
+    font-size: 24px;
+  }
+}
+
+@media (min-width: 992px) {
+  .pti-masthead .lead {
+    width: 80%;
+    font-size: 30px;
+  }
+}
+
+
+/*
+ * Page headers
+ *
+ * Jumbotron-esque headers at the top of every page that's not the homepage.
+ */
+
+/* Page headers */
+.pti-header {
+  margin-bottom: 40px;
+  font-size: 20px;
+}
+.pti-header h1 {
+  margin-top: 0;
+  color: #fff;
+}
+.pti-header h1 a {
+  color: #fff;
+}
+.pti-header p {
+  margin-bottom: 0;
+  font-weight: 300;
+  line-height: 1.4;
+}
+.pti-header .container {
+  position: relative;
+}
+
+@media (min-width: 768px) {
+  .pti-header {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 24px;
+    text-align: left;
+  }
+  .pti-header h1 {
+    font-size: 60px;
+    line-height: 1;
+  }
+}
+
+@media (min-width: 992px) {
+  .pti-header h1,
+  .pti-header p {
+    margin-right: 380px;
+  }
+}
+
+
+/*
+ * Homepage featurettes
+ *
+ * Reasons to use Bootstrap, entries from the Expo, and more.
+ */
+
+.pti-featurette {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #555;
+  text-align: center;
+  background-color: #fff;
+  border-bottom: 1px solid #e5e5e5;
+}
+.pti-featurette + .pti-footer {
+  margin-top: 0;
+  border-top: 0;
+}
+
+.pti-featurette-title {
+  margin-bottom: 5px;
+  font-size: 30px;
+  font-weight: normal;
+  color: #333;
+}
+.half-rule {
+  width: 100px;
+  margin: 40px auto;
+}
+.pti-featurette h3 {
+  margin-bottom: 5px;
+  font-weight: normal;
+  color: #333;
+}
+.pti-featurette-img {
+  display: block;
+  margin-bottom: 20px;
+  color: #333;
+}
+.pti-featurette-img:hover {
+  color: #428bca;
+  text-decoration: none;
+}
+.pti-featurette-img img {
+  display: block;
+  margin-bottom: 15px;
+}
+
+@media (min-width: 480px) {
+  .pti-featurette .img-responsive {
+    margin-top: 30px;
+  }
+}
+@media (min-width: 768px) {
+  .pti-featurette {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .pti-featurette-title {
+    font-size: 40px;
+  }
+  .pti-featurette .lead {
+    max-width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .pti-featurette .img-responsive {
+    margin-top: 0;
+  }
+}
+
+
+/*
+ * Featured sites
+ *
+ * Homepage thumbnails from the Expo.
+ */
+
+.pti-featured-sites {
+  margin-right: -1px;
+  margin-left: -1px;
+}
+.pti-featured-sites .col-xs-6 {
+  padding: 1px;
+}
+.pti-featured-sites .img-responsive {
+  margin-top: 0;
+}
+
+@media (min-width: 768px) {
+  .pti-featured-sites .col-sm-3:first-child img {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+  }
+  .pti-featured-sites .col-sm-3:last-child img {
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+  }
+}
+
+
+/*
+ * Examples
+ *
+ * Linked docs examples.
+ */
+
+.bs-examples .thumbnail {
+  margin-bottom: 10px;
+}
+.bs-examples h4 {
+  margin-bottom: 5px;
+}
+.bs-examples p {
+  margin-bottom: 20px;
+}
+
+@media (max-width: 480px) {
+  .bs-examples {
+    margin-right: -10px;
+    margin-left: -10px;
+  }
+  .bs-examples > [class^="col-"] {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+}
+
+
+/*
+ * Side navigation
+ *
+ * Scrollspy and affixed enhanced navigation to highlight sections and secondary
+ * sections of docs content.
+ */
+
+/* By default it's not affixed in mobile views, so undo that */
+.pti-sidebar.affix {
+  position: static;
+}
+@media (min-width: 768px) {
+  .pti-sidebar {
+    padding-left: 20px;
+  }
+}
+
+/* First level of nav */
+.pti-sidenav {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* All levels of nav */
+.pti-sidebar .nav > li > a {
+  display: block;
+  padding: 4px 20px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #999;
+}
+.pti-sidebar .nav > li > a:hover,
+.pti-sidebar .nav > li > a:focus {
+  padding-left: 19px;
+  color: #942119;
+  text-decoration: none;
+  background-color: transparent;
+  border-left: 1px solid #942119;
+}
+.pti-sidebar .nav > .active > a,
+.pti-sidebar .nav > .active:hover > a,
+.pti-sidebar .nav > .active:focus > a {
+  padding-left: 18px;
+  font-weight: bold;
+  color: #942119;
+  background-color: transparent;
+  border-left: 2px solid #942119;
+}
+
+/* Nav: second level (shown on .active) */
+.pti-sidebar .nav .nav {
+  display: none; /* Hide by default, but at >768px, show it */
+  padding-bottom: 10px;
+}
+.pti-sidebar .nav .nav > li > a {
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 30px;
+  font-size: 12px;
+  font-weight: normal;
+}
+.pti-sidebar .nav .nav > li > a:hover,
+.pti-sidebar .nav .nav > li > a:focus {
+  padding-left: 29px;
+}
+.pti-sidebar .nav .nav > .active > a,
+.pti-sidebar .nav .nav > .active:hover > a,
+.pti-sidebar .nav .nav > .active:focus > a {
+  padding-left: 28px;
+  font-weight: 500;
+}
+
+/* Back to top (hidden on mobile) */
+.back-to-top,
+.pti-theme-toggle {
+  display: none;
+  padding: 4px 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #999;
+}
+.back-to-top:hover,
+.pti-theme-toggle:hover {
+  color: #942119;
+  text-decoration: none;
+}
+.pti-theme-toggle {
+  margin-top: 0;
+}
+
+@media (min-width: 768px) {
+  .back-to-top,
+  .pti-theme-toggle {
+    display: block;
+  }
+}
+
+/* Show and affix the side nav when space allows it */
+@media (min-width: 992px) {
+  .pti-sidebar .nav > .active > ul {
+    display: block;
+  }
+  /* Widen the fixed sidebar */
+  .pti-sidebar.affix,
+  .pti-sidebar.affix-bottom {
+    width: 213px;
+  }
+  .pti-sidebar.affix {
+    position: fixed; /* Undo the static from mobile first approach */
+    top: 20px;
+  }
+  .pti-sidebar.affix-bottom {
+    position: absolute; /* Undo the static from mobile first approach */
+  }
+  .pti-sidebar.affix-bottom .pti-sidenav,
+  .pti-sidebar.affix .pti-sidenav {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+@media (min-width: 1200px) {
+  /* Widen the fixed sidebar again */
+  .pti-sidebar.affix-bottom,
+  .pti-sidebar.affix {
+    width: 263px;
+  }
+}
+
+
+/*
+ * Docs sections
+ *
+ * Content blocks for each component or feature.
+ */
+
+/* Space things out */
+.pti-section {
+  margin-bottom: 60px;
+}
+.pti-section:last-child {
+  margin-bottom: 0;
+}
+
+h1[id] {
+  padding-top: 20px;
+  margin-top: 0;
+}
+
+
+/*
+ * Callouts
+ *
+ * Not quite alerts, but custom and helpful notes for folks reading the docs.
+ * Requires a base and modifier class.
+ */
+
+/* Common styles for all types */
+.bs-callout {
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #eee;
+  border-left-width: 5px;
+  border-radius: 3px;
+}
+.bs-callout h4 {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+.bs-callout p:last-child {
+  margin-bottom: 0;
+}
+.bs-callout code {
+  border-radius: 3px;
+}
+
+/* Tighten up space between multiple callouts */
+.bs-callout + .bs-callout {
+  margin-top: -5px;
+}
+
+/* Variations */
+.bs-callout-danger {
+  border-left-color: #d9534f;
+}
+.bs-callout-danger h4 {
+  color: #d9534f;
+}
+.bs-callout-warning {
+  border-left-color: #f0ad4e;
+}
+.bs-callout-warning h4 {
+  color: #f0ad4e;
+}
+.bs-callout-info {
+  border-left-color: #5bc0de;
+}
+.bs-callout-info h4 {
+  color: #5bc0de;
+}
+
+
+/*
+ * Color swatches
+ *
+ * Color swatches and associated values for our grayscale and brand colors.
+ */
+
+.color-swatches {
+  margin: 0 -5px;
+  overflow: hidden; /* clearfix */
+}
+.color-swatch {
+  float: left;
+  width: 60px;
+  height: 60px;
+  margin: 0 5px;
+  border-radius: 3px;
+}
+
+@media (min-width: 768px) {
+  .color-swatch {
+    width: 100px;
+    height: 100px;
+  }
+}
+
+/* Framework colors */
+.color-swatches .gray-darker {
+  background-color: #222;
+}
+.color-swatches .gray-dark {
+  background-color: #333;
+}
+.color-swatches .gray {
+  background-color: #555;
+}
+.color-swatches .gray-light {
+  background-color: #999;
+}
+.color-swatches .gray-lighter {
+  background-color: #eee;
+}
+.color-swatches .brand-primary {
+  background-color: #428bca;
+}
+.color-swatches .brand-success {
+  background-color: #5cb85c;
+}
+.color-swatches .brand-warning {
+  background-color: #f0ad4e;
+}
+.color-swatches .brand-danger {
+  background-color: #d9534f;
+}
+.color-swatches .brand-info {
+  background-color: #5bc0de;
+}
+
+/* Docs colors */
+.color-swatches .bs-purple {
+  background-color: #942119;
+}
+.color-swatches .bs-purple-light {
+  background-color: #c7bfd3;
+}
+.color-swatches .bs-purple-lighter {
+  background-color: #e5e1ea;
+}
+.color-swatches .bs-gray {
+  background-color: #f9f9f9;
+}
+
+
+/*
+ * Code snippets
+ *
+ * Generated via Pygments and Jekyll, these are snippets of HTML, CSS, and JS.
+ */
+
+.highlight {
+  padding: 9px 14px;
+  margin-bottom: 14px;
+  background-color: #f7f7f9;
+  border: 1px solid #e1e1e8;
+  border-radius: 4px;
+}
+.highlight pre {
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  word-break: normal;
+  white-space: nowrap;
+  background-color: transparent;
+  border: 0;
+}
+.highlight pre code {
+  font-size: inherit;
+  color: #333; /* Effectively the base text color */
+}
+.highlight pre code:first-child {
+  display: inline-block;
+  padding-right: 45px;
+}
+
+
+/*
+ * Glyphicons
+ *
+ * Special styles for displaying the icons and their classes in the docs.
+ */
+
+.bs-glyphicons {
+  margin: 0 -10px 20px;
+  overflow: hidden;
+}
+.bs-glyphicons-list {
+  padding-left: 0;
+  list-style: none;
+}
+.bs-glyphicons li {
+  float: left;
+  width: 25%;
+  height: 115px;
+  padding: 10px;
+  font-size: 10px;
+  line-height: 1.4;
+  text-align: center;
+  background-color: #f9f9f9;
+  border: 1px solid #fff;
+}
+.bs-glyphicons .glyphicon {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+.bs-glyphicons .glyphicon-class {
+  display: block;
+  text-align: center;
+  word-wrap: break-word; /* Help out IE10+ with class names */
+}
+.bs-glyphicons li:hover {
+  color: #fff;
+  background-color: #942119;
+}
+
+@media (min-width: 768px) {
+  .bs-glyphicons {
+    margin-right: 0;
+    margin-left: 0;
+  }
+  .bs-glyphicons li {
+    width: 12.5%;
+    font-size: 12px;
+  }
+}
+
+
+/*
+ * Images
+ */
+
+.with-img-responsive img {
+  display: block;
+  width: 100%\9;
+  max-width: 100%;
+  height: auto;
+}
+
+/*
+ * Miscellaneous
+ *
+ * Odds and ends for optimum docs display.
+ */
+
+/* Pseudo :focus state for showing how it looks in the docs */
+#focusedInput {
+  border-color: rgb(204,204,204); /* Restate unfocused value to make CSSLint happy that there's a pre-CSS3 fallback*/
+  border-color: rgba(82,168,236,.8);
+  outline: 0;
+  outline: thin dotted \9; /* IE6-9 */
+  -webkit-box-shadow: 0 0 8px rgba(82,168,236,.6);
+          box-shadow: 0 0 8px rgba(82,168,236,.6);
+}

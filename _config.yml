@@ -1,0 +1,58 @@
+# Configuration:
+permalink: /:year/:month/:day/:title
+excerpt_separator: "<!-- break -->"
+
+# Metadata:
+title: Passion Talks 2015
+tagline: Connecting Work and Faith
+author:
+  name: Passion Talks International
+description: |
+  "Passion Talks" are short talks by Christian grad students,
+  academics and professionals considering how their faith intersects
+  with and impacts their work. Founded in 2012 by Christian grad
+  students from UC Berkeley, UC Santa Cruz, UC San Francisco, and
+  Stanford, Passion Talks is a growing platform for discussing the
+  work-faith connection in all disciplines.
+pti_url: /
+
+# Navigation menu items. (Note that these a preceded by some fixed
+# items coded directly in _includes/navbar.html .)
+navigation:
+  - label: Call for Participation
+    url: "/"
+  - label: Register
+    url: "/"
+  - label: Schedule
+    url: "/"
+  - label: Travel
+    url: "/"
+  - label: About
+    url: "/about"
+
+# Content configuration defaults:
+defaults:
+  - scope:
+      path: ""
+      type: "page" # Jekyll <= 2.2 (for GitHub Pages)
+    values:
+      layout: "page"
+      sidebar: true
+  - scope:
+      path: ""
+      type: "pages" # Jekyll >= 2.3
+    values:
+      layout: "page"
+      sidebar: true
+  - scope:
+      path: ""
+      type: "post" # Jekyll <= 2.2 (for GitHub Pages)
+    values:
+      layout: "post"
+      sidebar: true
+  - scope:
+      path: ""
+      type: "posts" # Jekyll >= 2.3
+    values:
+      layout: "post"
+      sidebar: true

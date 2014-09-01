@@ -1,0 +1,14 @@
+<footer class="pti-footer" role="contentinfo">
+  <div class="container">
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}.</p>
+    <p>Powered by <a href="http://jekyllrb.com/">Jekyll</a> and <a href="http://getbootstrap.com/">Bootstrap</a>.</p>
+
+    <ul class="pti-footer-links muted">
+      {% for item in site.navigation %}
+        <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.label }}</a></li>
+        <li>&middot;</li>
+      {% endfor %}
+      <li><a href="{{ site.pti_url }}">Passion Talks International</a></li>
+    </ul>
+  </div>
+</footer>
