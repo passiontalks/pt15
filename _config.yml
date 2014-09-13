@@ -15,7 +15,7 @@ description: |
   students from UC Berkeley, UC Santa Cruz, UC San Francisco, and
   Stanford, Passion Talks is a growing platform for discussing the
   work-faith connection in all disciplines.
-pti_url: "http://passiontalks.org"
+pti_url: "http://beta.passiontalks.org"
 
 # Navigation menu items. (Note that these a preceded by some fixed
 # items coded directly in _includes/navbar.html .)
