@@ -219,13 +219,7 @@ body {
   color: #efa8a3;
   text-align: center;
   text-shadow: 0 1px 0 rgba(0,0,0,.1);
-  background-color: #7e1c15;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#942119), to(#7e1c15));
-  background-image: -webkit-linear-gradient(top, #942119 0%, #7e1c15 100%);
-  background-image:      -o-linear-gradient(top, #942119 0%, #7e1c15 100%);
-  background-image:         linear-gradient(to bottom, #942119 0%, #7e1c15 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#942119', endColorstr='#7E1C15', GradientType=0);
-  background-repeat: repeat-x;
+  background-color: #942119;
 }
 
 /* Masthead (headings and download button) */
