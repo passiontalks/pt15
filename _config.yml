@@ -1,6 +1,5 @@
 # Configuration:
-baseurl: /pt15
-exclude: ["README.md"]
+exclude: ["CNAME", "README.md"]
 permalink: /:year/:month/:day/:title
 excerpt_separator: "<!-- break -->"
 
@@ -16,7 +15,7 @@ description: |
   students from UC Berkeley, UC Santa Cruz, UC San Francisco, and
   Stanford, Passion Talks is a growing platform for discussing the
   work-faith connection in all disciplines.
-pti_url: ""
+pti_url: "http://passiontalks.org"
 
 # Navigation menu items. (Note that these a preceded by some fixed
 # items coded directly in _includes/navbar.html .)
