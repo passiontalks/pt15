@@ -8,13 +8,6 @@ title: Passion Talks 2015
 tagline: Connecting Work and Faith
 author:
   name: Passion Talks International
-description: |
-  "Passion Talks" are short talks by Christian grad students,
-  academics and professionals considering how their faith intersects
-  with and impacts their work. Founded in 2012 by Christian grad
-  students from UC Berkeley, UC Santa Cruz, UC San Francisco, and
-  Stanford, Passion Talks is a growing platform for discussing the
-  work-faith connection in all disciplines.
 pti_url: "http://passiontalks.org"
 
 # Navigation menu items. (Note that these a preceded by some fixed
@@ -39,9 +32,11 @@ defaults:
     values:
       layout: "page"
       sidebar: true
+      highlight_first: false
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
       sidebar: true
+      highlight_first: false

@@ -32,6 +32,19 @@ body {
   position: relative; /* For scrollspy */
 }
 
+.highlight_first > p:first-of-type {
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.4;
+}
+
+@media (min-width:768px) {
+  .highlight_first > p:first-of-type {
+    font-size: 21px;
+  }
+}
+
 /* Keep code small in tables on account of limited space */
 .table code {
   font-size: 13px;
@@ -220,6 +233,10 @@ body {
   text-align: center;
   text-shadow: 0 1px 0 rgba(0,0,0,.1);
   background-color: #942119;
+}
+
+.pti-header a {
+  color: #efa8a3;
 }
 
 /* Masthead (headings and download button) */
