@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: frontpage
 title: Passion Talks 2015
 tagline: |
-  Connecting Work and Faith | August 22, 2015 | <a href="http://ivgrad.stanford.edu/">IVGrad @ Stanford</a>
+  Connecting Work and Faith | August 22, 2015
+sidebar: true
 highlight_first: true
 ---
 

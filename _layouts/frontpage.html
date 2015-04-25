@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div id="content" class="pti-header">
+  <div class="container">
+    <p><a href="http://ivgrad.stanford.edu/">IVGrad @ Stanford</a> presents</p>
+    <h1>
+      {% if page.title_url %} <a href="{{ site.baseurl }}{{ page.title_url }}"> {% endif %}
+        {{ page.title }}
+      {% if page.title_url %} </a> {% endif %}
+    </h1>
+    {% if page.tagline %} <p>{{ page.tagline }}</p>{% endif %}
+  </div>
+</div>
+
+<div class="container with-img-responsive">
+  <div class="col-md-8{% if page.highlight_first %} highlight_first{% endif %}">
+    {{ content }}
+  </div>
+
+  <div class="col-md-4">
+    {% include sidebar.html %}
+  </div>
+</div>

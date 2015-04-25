@@ -15,7 +15,7 @@ communities and the Christian Church.
   * **General Chair:** Elliott Slaughter, <span class="small">Stanford University</span>
   * **Program Chair:** Paul Riggins, <span class="small">University of California, Berkeley</span>
   * **Logistics Chair:** Emily Kolenbrander, <span class="small">Stanford University</span>
-  * Ben Bell, <span class="small">Stanford University</span>
+  * **Publicity Chair:** Ben Bell, <span class="small">Stanford University</span>
   * Sherol Chen, <span class="small">University of California, Santa Cruz<span>
   * Daniel Heywood, <span class="small">Stanford University</span>
   * Jeff Ho, <span class="small">Stanford University</span>
