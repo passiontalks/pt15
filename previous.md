@@ -10,4 +10,4 @@ permalink: "previous/index.html"
 
 # Previous Conferences
 
-See more <a href="{{ site.pti-url }}">previous conferences</a>.
+See more <a href="{{ site.pti_url }}">previous conferences</a>.
