@@ -2,7 +2,6 @@
 layout: page
 title: Call for Participation
 permalink: "call/index.html"
-sidebar: false
 highlight_first: true
 ---
 
