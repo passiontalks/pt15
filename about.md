@@ -10,6 +10,9 @@ highlight_first: true
 share their voice in order to foster humble dialogue between scholarly
 communities and the Christian Church.
 
+See the <a href="{{ site.baseurl }}/vision">Passion Talks Vision</a> for
+more information.
+
 ## General Committee
 
   * **General Chair:** Elliott Slaughter, <span class="small">Stanford University</span>
