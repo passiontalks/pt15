@@ -51,7 +51,7 @@ in the Additional Comments section of the submission form.
 
 ## Practice Talks
 
-We ask that all speakers join us for an information practice talk
+We ask that all speakers join us for an informal practice talk
 session on August 8, two weeks before the conference. These sessions
 help improve your talk by providing you an opportunity to give and
 receive feedback in an informal setting. Practice talks will be held
