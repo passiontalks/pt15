@@ -102,7 +102,7 @@ announced.
   * June 22, 2015, 11:59pm PDT --- Submissions deadline
   * July 7, 2015 --- All speakers have received decisions
   * August 8, 2015 --- Practice talks sessions held at Stanford and UC Berkeley
-  * August 22, 2015x --- Conference
+  * August 22, 2015 --- Conference
 
 ## Questions
 
