@@ -15,6 +15,8 @@ pti_url: "http://passiontalks.org"
 navigation:
   - label: Call for Participation
     url: "/call"
+  - label: Submit a Talk
+    url: "/submit"
 #  - label: Register
 #    url: "/"
 #  - label: Schedule
@@ -23,6 +25,8 @@ navigation:
 #    url: "/"
   - label: About
     url: "/about"
+  - label: Vision
+    url: "/vision"
 
 # Content configuration defaults:
 defaults:

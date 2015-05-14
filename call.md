@@ -15,9 +15,10 @@ all disciplines (both academic and professional) and at all stages of
 their respective personal faith journeys. Talks vary in the degree to
 which they focus on and combine elements from the speakers' work and
 faith. Integration of work and faith is strongly encouraged in all
-talks. Speakers are encouraged to review the recorded talks from
-<a href="{{ site.baseurl }}/previous">previous conferences</a> for
-inspiration and guidance in preparing their talks.
+talks. Speakers are encouraged to review the
+<a href="{{ site.baseurl }}/vision">vision statement for 2015</a> and
+<a href="{{ site.baseurl }}/previous">recorded talks from previous
+conferences</a> for inspiration and guidance in preparing their talks.
 
 To promote humble dialogue and deeper relationships, this year's
 conference will provide speakers the additional opportunity to
@@ -26,15 +27,16 @@ fields. All speakers are encouraged to participate.
 
   * <a href="{{ site.baseurl }}/submit">Submit a talk</a>
   * Important dates:
-      * Submissions close: June 22, 11:59pm PDT
-      * Acceptance notifications: July 7 (and on a rolling basis)
-      * Conference: August 22
+      * Submissions Open: May 1, 2015
+      * **Submissions Close: June 22, 2015, 11:59pm PDT**
+      * Acceptance Notifications: July 7, 2015 (and on a rolling basis)
+      * Conference: August 22, 2015
   * Questions? Contact: <pt15-committee@googlegroups.com>
 
 # Submissions
 
-We are now accepting submissions for Passion Talks 2015. Submissions
-close June 22, 2015 at 11:59pm PDT. All submissions must include an
+We are now accepting submissions for Passion Talks 2015. **Submissions
+close June 22, 2015 at 11:59pm PDT.** All submissions must include an
 abstract, professional bio, and statement of faith. Accepted talks
 will be included in the conference proceedings online and in
 print. You may select to keep your personal information (name, etc.)
@@ -97,10 +99,10 @@ announced.
 
 ## Timeline
 
-  * June 22, 11:59pm PDT --- Submissions deadline
-  * July 7 --- All speakers have received decisions
-  * August 8 --- Practice talks sessions held at Stanford and UC Berkeley
-  * August 22 --- Conference
+  * June 22, 2015, 11:59pm PDT --- Submissions deadline
+  * July 7, 2015 --- All speakers have received decisions
+  * August 8, 2015 --- Practice talks sessions held at Stanford and UC Berkeley
+  * August 22, 2015x --- Conference
 
 ## Questions
 
