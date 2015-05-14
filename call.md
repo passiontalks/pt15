@@ -6,7 +6,7 @@ highlight_first: true
 ---
 
 <a href="http://ivgrad.stanford.edu/">IVGrad @ Stanford</a> is proud
-to present the Fourth Annual Passion Talks Conference, to be held on
+to present the fourth annual Passion Talks conference, to be held on
 August 22, 2015 at Stanford University.
 
 Passion Talks are short talks which integrate the scholarly work and
