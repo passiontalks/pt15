@@ -29,7 +29,7 @@ fields. All speakers are encouraged to participate.
   * Important dates:
       * Submissions Open: May 1, 2015
       * **Submissions Close: June 22, 2015, 11:59pm PDT**
-      * Acceptance Notifications: July 7, 2015 (and on a rolling basis)
+      * Acceptance Notifications: on or before July 7, 2015
       * Conference: August 22, 2015
   * Questions? Contact: <pt15-committee@googlegroups.com>
 
