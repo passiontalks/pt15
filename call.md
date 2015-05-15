@@ -45,9 +45,9 @@ private. See the [Submissions]({{ site.baseurl }}/submit)
 page for details and to submit your talk.
 
 Talks will be reviewed as they are submitted, and all speakers will
-receive a decision by Monday, July 6. If you need to have a decision
+receive a decision by Tuesday, July 7. *If you need to have a decision
 by a certain date in order to arrange travel plans, please let us know
-in the Additional Comments section of the submission form.
+in the Additional Comments section of the submission form.*
 
 ## Practice Talks
 
