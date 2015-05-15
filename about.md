@@ -10,7 +10,7 @@ highlight_first: true
 share their voice in order to foster humble dialogue between scholarly
 communities and the Christian Church.
 
-See the <a href="{{ site.baseurl }}/vision">Passion Talks Vision</a> for
+See the [vision statement for 2015]({{ site.baseurl }}/vision) for
 more information.
 
 ## General Committee

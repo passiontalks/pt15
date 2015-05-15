@@ -5,7 +5,7 @@ permalink: "call/index.html"
 highlight_first: true
 ---
 
-<a href="http://ivgrad.stanford.edu/">IVGrad @ Stanford</a> is proud
+[IVGrad @ Stanford](http://ivgrad.stanford.edu/) is proud
 to present the fourth annual Passion Talks conference, to be held on
 August 22, 2015 at Stanford University.
 
@@ -16,16 +16,16 @@ their respective personal faith journeys. Talks vary in the degree to
 which they focus on and combine elements from the speakers' work and
 faith. Integration of work and faith is strongly encouraged in all
 talks. Speakers are encouraged to review the
-<a href="{{ site.baseurl }}/vision">vision statement for 2015</a> and
-<a href="{{ site.baseurl }}/previous">recorded talks from previous
-conferences</a> for inspiration and guidance in preparing their talks.
+[vision statement for 2015]({{ site.baseurl }}/vision) and
+[recorded talks from previous conferences]({{ site.baseurl }}/previous)
+for inspiration and guidance in preparing their talks.
 
 To promote humble dialogue and deeper relationships, this year's
 conference will provide speakers the additional opportunity to
 participate in panel discussions of the various issues in their
 fields. All speakers are encouraged to participate.
 
-  * <a href="{{ site.baseurl }}/submit">Submit a talk</a>
+  * [Submit a talk]({{ site.baseurl }}/submit)
   * Important dates:
       * Submissions Open: May 1, 2015
       * **Submissions Close: June 22, 2015, 11:59pm PDT**
@@ -41,7 +41,7 @@ close June 22, 2015 at 11:59pm PDT.** All submissions must include an
 abstract, professional bio, and statement of faith. Accepted talks
 will be included in the conference proceedings online and in
 print. You may select to keep your personal information (name, etc.)
-private. See the <a href="{{ site.baseurl }}/submit">Submissions</a>
+private. See the [Submissions]({{ site.baseurl }}/submit)
 page for details and to submit your talk.
 
 Talks will be reviewed as they are submitted, and all speakers will
@@ -110,4 +110,4 @@ announced.
 Feel free to email the Passion Talks General Committee at
 <pt15-committee@googlegroups.com> with any questions or concerns you
 may have. You can see who is on the committee on the
-<a href="{{ site.baseurl }}/about">About</a> page.
+[About]({{ site.baseurl }}/about) page.
