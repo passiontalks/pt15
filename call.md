@@ -25,7 +25,9 @@ conference will provide speakers the additional opportunity to
 participate in panel discussions of the various issues in their
 fields. All speakers are encouraged to participate.
 
-  * [Submit a talk]({{ site.baseurl }}/submit)
+## Quick Links and Dates
+
+  * [**Submit a talk**]({{ site.baseurl }}/submit)
   * Important dates:
       * Submissions Open: May 1, 2015
       * **Submissions Close: June 22, 2015, 11:59pm PDT**
