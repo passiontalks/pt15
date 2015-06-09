@@ -32,7 +32,9 @@ fields. All speakers are encouraged to participate.
       * Submissions Open: May 1, 2015
       * **Submissions Close: June 22, 2015, 11:59pm PDT**
       * Acceptance Notifications: on or before July 7, 2015
-      * Practice Talks: August 8, 2015
+      * Practice Talks:
+          * UC Berkeley: August 8, 2015
+          * Stanford: August 12 and 14, 2015
       * Conference: August 22, 2015
   * Questions? Contact: <pt15-committee@googlegroups.com>
 
@@ -53,17 +55,17 @@ in the Additional Comments section of the submission form.*
 
 ## Practice Talks
 
-We ask that all speakers join us for an informal practice talk
-session on August 8, two weeks before the conference. These sessions
-help improve your talk by providing you an opportunity to give and
-receive feedback in an informal setting. Practice talks will be held
-at both Stanford and UC Berkeley, so speakers may attend whichever is
-most convenient. Sessions will be at most 2 hours, not including
-travel time to and from the session, with timeslots arranged according
-to speaker availability and preference. The committee will do its best
-to offer alternative accommodations if either location or schedule is
-a problem. Practice talks will be arranged after all decisions have
-been announced.
+We ask that all speakers join us for an informal practice talk session
+before the conference. These sessions help improve your talk by
+providing you an opportunity to give and receive feedback in an
+informal setting. Practice talks will be held at both Stanford (August
+12 and 14) and UC Berkeley (August 8), so speakers may attend
+whichever is most convenient. Sessions will be at most 2 hours, not
+including travel time to and from the session, with timeslots arranged
+according to speaker availability and preference. The committee will
+do its best to offer alternative accommodations if either location or
+schedule is a problem. Practice talks will be arranged after all
+decisions have been announced.
 
 ## Panel Discussions
 
@@ -104,7 +106,8 @@ announced.
 
   * June 22, 2015, 11:59pm PDT --- Submissions deadline
   * July 7, 2015 --- All speakers have received decisions
-  * August 8, 2015 --- Practice talks sessions held at Stanford and UC Berkeley
+  * August 8, 2015 --- Practice talks (UC Berkeley)
+  * August 12 and 14, 2015 --- Practice talks (Stanford)
   * August 22, 2015 --- Conference
 
 ## Questions
