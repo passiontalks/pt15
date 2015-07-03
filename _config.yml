@@ -21,8 +21,8 @@ navigation:
     url: "/register"
 #  - label: Schedule
 #    url: "/"
-#  - label: Travel
-#    url: "/"
+  - label: Travel
+    url: "/"
   - label: About
     url: "/about"
   - label: Vision
