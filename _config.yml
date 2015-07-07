@@ -22,7 +22,7 @@ navigation:
 #  - label: Schedule
 #    url: "/"
   - label: Travel
-    url: "/"
+    url: "/travel"
   - label: About
     url: "/about"
   - label: Vision
