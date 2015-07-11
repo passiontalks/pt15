@@ -1,8 +1,7 @@
 ---
 layout: frontpage
 title: Passion Talks 2015
-tagline: |
-  Connecting Work and Faith | August 22, 2015
+# Note: presents and tagline are in _layouts/frontpage.html
 sidebar: true
 highlight_first: true
 ---
