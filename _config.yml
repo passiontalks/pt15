@@ -19,8 +19,8 @@ navigation:
 #    url: "/submit"
   - label: Register
     url: "/register"
-#  - label: Schedule
-#    url: "/"
+  - label: Schedule
+    url: "/schedule"
   - label: Travel
     url: "/travel"
   - label: About
