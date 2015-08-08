@@ -26,7 +26,7 @@ directions and parking instructions.
     </tr>
     <tr>
       <td>9:30am - 10:30am</td>
-      <td>Opening Plenary</td>
+      <td>Opening Plenary: <em>Faith and Flourishing in Secular Institutions</em></td>
     </tr>
     <tr>
       <td>10:40am - 11:40am</td>
@@ -37,11 +37,11 @@ directions and parking instructions.
       <td>Lunch</td>
     </tr>
     <tr>
-      <td>12:50pm - 1:50pm</td>
+      <td>1:00 - 2:00pm</td>
       <td>Session 2</td>
     </tr>
     <tr>
-      <td>2:00pm - 3:00pm</td>
+      <td>2:10pm - 3:10pm</td>
       <td>Session 3</td>
     </tr>
     <tr>
@@ -58,10 +58,10 @@ directions and parking instructions.
 <!-- | Time | Event | -->
 <!-- | ------ | ------ | -->
 <!-- | 9:00am - 9:30am | Breakfast | -->
-<!-- | 9:30am - 10:30am | Opening Plenary | -->
+<!-- | 9:30am - 10:30am | Opening Plenary: *Faith and Flourishing in Secular Institutions* | -->
 <!-- | 10:40am - 11:40am | Session 1 | -->
 <!-- | 11:50am - 12:50pm | Lunch | -->
-<!-- | 12:50pm - 1:50pm | Session 2 | -->
-<!-- | 2:00pm - 3:00pm | Session 3 | -->
+<!-- | 1:00pm - 2:00pm | Session 2 | -->
+<!-- | 2:10pm - 3:10pm | Session 3 | -->
 <!-- | 3:20pm - 4:20pm | Panels | -->
 <!-- | 4:30pm - 5:00pm | Closing Plenary | -->
