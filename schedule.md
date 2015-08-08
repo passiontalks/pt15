@@ -37,7 +37,7 @@ directions and parking instructions.
       <td>Lunch</td>
     </tr>
     <tr>
-      <td>1:00 - 2:00pm</td>
+      <td>1:00pm - 2:00pm</td>
       <td>Session 2</td>
     </tr>
     <tr>
