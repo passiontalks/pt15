@@ -13,16 +13,18 @@ pti_url: "http://passiontalks.org"
 # Navigation menu items. (Note that these a preceded by some fixed
 # items coded directly in _includes/navbar.html .)
 navigation:
-  - label: Call for Participation
-    url: "/call"
-#  - label: Submit a Talk
-#    url: "/submit"
   - label: Register
     url: "/register"
   - label: Schedule
     url: "/schedule"
+  - label: Program
+    url: "/program"
   - label: Travel
     url: "/travel"
+  - label: Call for Participation
+    url: "/call"
+#  - label: Submit a Talk
+#    url: "/submit"
   - label: About
     url: "/about"
   - label: Vision

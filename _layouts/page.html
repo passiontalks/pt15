@@ -6,7 +6,7 @@ layout: default
   <div class="container">
     <h1>
       {% if page.title_url %} <a href="{{ site.baseurl }}{{ page.title_url }}"> {% endif %}
-        {{ page.title }}
+        {{ page.title | markdownify | replace:'<p>','' | replace:'</p>','' }}
       {% if page.title_url %} </a> {% endif %}
     </h1>
     {% if page.tagline %} <p>{{ page.tagline }}</p>{% endif %}
