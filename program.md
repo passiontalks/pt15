@@ -33,7 +33,7 @@ See also the general [Schedule]({{ site.baseurl}}/schedule).
     </tr>
     <tr>
       <th>11:20am</th>
-      <td><a href="{{ site.baseurl }}/talk/law-behind-law">{{ 'The Law Behind The Law' | markdownify }}</a></td>
+      <td><a href="{{ site.baseurl }}/talk/love-your-neighbor-public-square">{{ 'How to Love Your Neighbor in the Public Square' | markdownify }}</a></td>
       <td><a href="{{ site.baseurl }}/talk/theology-computer-programming-languages">{{ 'A Theology of Computer Programming Languages' | markdownify }}</a></td>
       <td><a href="{{ site.baseurl }}/talk/walking-boldly-identities-sons-daughters">{{ 'Walking Boldly in Our Identities as Sons and Daughters' | markdownify }}</a></td>
     </tr>
