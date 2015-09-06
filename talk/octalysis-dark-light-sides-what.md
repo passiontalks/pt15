@@ -8,6 +8,10 @@ permalink: "talk/octalysis-dark-light-sides-what/index.html"
 
 Session 2A, 1:40pm, Room 114
 
+<audio controls><source src="{{ site.baseurl }}" type="audio/mpeg"></audio>
+
+<a href="{{ site.baseurl }}">Download podcast</a>.
+
 ### <span class="talk-abstract">Abstract</span>
 
 Have you ever wondered why it is so hard to motivate people (including yourself) to do things that are meaningful? Even when you figure out quick-burst ways to change behavior, motivation starts to dwindle again after a short period of time. It becomes discouraging, demoralizing, and eventually leads to burnout. Gamification Pioneer Yu-kai Chou combines years of research and experience in game design, game dynamics, motivational psychology, behavioral economics, and UX/UI to explain the mysterious dynamics between White Hat and Black Hat Motivation in his Octalysis Framework, and how we can design for better long-run motivation.

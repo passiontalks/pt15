@@ -8,6 +8,10 @@ permalink: "talk/molecular-man-biological-determinism-identity/index.html"
 
 Session 2B, 1:40pm, Room 112
 
+<audio controls><source src="{{ site.baseurl }}/audio/2B-molecular-man-biological-determinism-identity.mp3" type="audio/mpeg"></audio>
+
+<a href="{{ site.baseurl }}/audio/2B-molecular-man-biological-determinism-identity.mp3">Download podcast</a>.
+
 ### <span class="talk-abstract">Abstract</span>
 
 Biological determinism has come to the fore perhaps most vividly in recent years within the “nature versus nurture” debate. To varying degrees, proponents argue that all actions of humankind are derived from animal instincts to propagate the species. In other words, our biology is deterministic of our desires, motivations, and, ultimately, our actions.

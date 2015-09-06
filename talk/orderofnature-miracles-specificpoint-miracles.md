@@ -8,6 +8,10 @@ permalink: "talk/orderofnature-miracles-specificpoint-miracles/index.html"
 
 Session 1B, 11:00am, Room 112
 
+<audio controls><source src="{{ site.baseurl }}/audio/1B-orderofnature-miracles-specificpoint-miracles.mp3" type="audio/mpeg"></audio>
+
+<a href="{{ site.baseurl }}/audio/1B-orderofnature-miracles-specificpoint-miracles.mp3">Download podcast</a>.
+
 ### <span class="talk-abstract">Abstract</span>
 
 Science is able to explain nearly all aspect of the natural world, from the smallest to the largest scale.  Many conclude from this that God either does not exist or does nothing (the deist god).  But all that the success of science actaully tells us is that we live in a universe that is exquisitely ordered, a universe where God does not need to do miracles on a regular or periodic basis to sustain the world as we observe it.  In short, there do not appear to be "gaps" in the order of nature that God would need miraculously to fill.  But (a) it is not surprising that an all-powerful and all-knowing God would create such a universe. (b) An absence of order-of-nature miracles does not give one good reason to assume that God never does miracles at specific times for specific purposes.  The success of science is mute with respect to the possibility of specific-point miracles. And (c) all the miracles of the Bible (the possible exception of the creation event) are specific-point miracles.

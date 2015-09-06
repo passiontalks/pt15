@@ -8,6 +8,10 @@ permalink: "talk/fossil-fuels-renewable-energy-delivers/index.html"
 
 Session 3B, 2:10pm, Room 112
 
+<audio controls><source src="{{ site.baseurl }}/audio/3B-fossil-fuels-renewable-energy-delivers.mp3" type="audio/mpeg"></audio>
+
+<a href="{{ site.baseurl }}/audio/3B-fossil-fuels-renewable-energy-delivers.mp3">Download podcast</a>.
+
 ### <span class="talk-abstract">Abstract</span>
 
 Fossil fuels are among the most amazing gifts that God has endowed to human being. The chemical and energy derived from these “black gold” have been feeding our desire for economic growth. However, heavy dependence on fossil fuels and skyrocketing usage also result in environmental pollution, global warming and energy security crisis. Realizing all these problems, people turned to renewable energy resources to meet the ever-increasing needs for both current and future generation. In this presentation, I will introduce my research as an example of how we could convert fossil fuels and biomass into clean transportation fuels and valuable chemicals. I will present how I see scientific progress as interplay between God’s providence and human endeavor. Instead of attributing the development of such energy materials to purely human wisdom, I think it is God who provides everything we need for prosperity and guides solutions to the problems resulting from human’s limited wisdom and sinful nature.

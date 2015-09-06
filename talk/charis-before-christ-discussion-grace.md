@@ -8,6 +8,10 @@ permalink: "talk/charis-before-christ-discussion-grace/index.html"
 
 Session 2A, 1:00pm, Room 114
 
+<audio controls><source src="{{ site.baseurl }}" type="audio/mpeg"></audio>
+
+<a href="{{ site.baseurl }}">Download podcast</a>.
+
 ### <span class="talk-abstract">Abstract</span>
 
 In the New Testament, the Greek word *charis* signifies the grace of God, as in John 1:14 where Jesus is described as being “full of grace (*charis*) and truth.” The concept of “grace” has become so integral to the Christian faith that it is easy to take for granted the profundity of the term and its many implications. But it is a term that was central to Greek culture hundreds of years before the formation of the Christian church, with a significant role in the realms of religion, hospitality, and aesthetics. I will therefore take a step back in time to Greek literature before Christ to discuss how *charis* operated in ancient Greek culture. I will look in particular at the Homeric epics (8th century BCE) and Sophocles’ tragedy *Ajax* (5th century BCE). I believe that, by thinking about these expressions of *charis* outside the Christian tradition, we as Christians can better understand the grace of God, and our role in receiving and cultivating this gift.

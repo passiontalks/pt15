@@ -8,6 +8,10 @@ permalink: "talk/science-engineering-strengthen-faith/index.html"
 
 Session 2B, 1:20pm, Room 112
 
+<audio controls><source src="{{ site.baseurl }}/audio/2B-science-engineering-strengthen-faith.mp3" type="audio/mpeg"></audio>
+
+<a href="{{ site.baseurl }}/audio/2B-science-engineering-strengthen-faith.mp3">Download podcast</a>.
+
 ### <span class="talk-abstract">Abstract</span>
 
 

@@ -8,6 +8,10 @@ permalink: "talk/technology-help-encounter-god/index.html"
 
 Session 2C, 1:00pm, Room 106
 
+<audio controls><source src="{{ site.baseurl }}/audio/2C-technology-help-encounter-god.mp3" type="audio/mpeg"></audio>
+
+<a href="{{ site.baseurl }}/audio/2C-technology-help-encounter-god.mp3">Download podcast</a>.
+
 ### <span class="talk-abstract">Abstract</span>
 
 Technology is reshaping human behavior by enhancing the motivation, ability and triggers for discrete actions that bring people value (BJ Fogg).  For millennia, Christians have used the Bible to guide spiritual values and behaviors that they believe humans were created for. If the Bible contains meaningful values and behaviors, can these behaviors fit into technology models that enhance the motivation, ability and triggers for users of spiritual practices and help them engage more deeply in spiritual experience?  For two years, a collection of Silicon Valley technologists from Google and other firms have been running experiments on the Abide prayer platform to test several hypotheses that people can experience prayer with greater meaning and intimacy in their daily life through digital media.  The results conclude that for a significant portion of Christians, digital media can increase the practice of prayer by making it more relevant, easy and accessible in daily life. 

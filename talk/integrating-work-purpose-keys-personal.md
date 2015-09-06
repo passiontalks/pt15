@@ -8,6 +8,10 @@ permalink: "talk/integrating-work-purpose-keys-personal/index.html"
 
 Session 2A, 1:20pm, Room 114
 
+<audio controls><source src="{{ site.baseurl }}" type="audio/mpeg"></audio>
+
+<a href="{{ site.baseurl }}">Download podcast</a>.
+
 ### <span class="talk-abstract">Abstract</span>
 
 The purpose of this session is to enhance the integration of work and (purpose) faith. The presentation begins by defining work, and defining purpose, and gives necessary, and tangible principles for each participant/attendee to use while working in their respective job or career. Also, this presentation discusses the true importance of finding passion in your work, as well as aspects of faith/finding purpose for living, self reflection and approaches to our work. It is our call to better understand the true meaning in investing in the lives of others, and how important faith is as it relates to our respective careers or studies. 

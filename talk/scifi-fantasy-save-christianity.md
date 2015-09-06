@@ -8,6 +8,10 @@ permalink: "talk/scifi-fantasy-save-christianity/index.html"
 
 Session 2C, 1:40pm, Room 106
 
+<audio controls><source src="{{ site.baseurl }}" type="audio/mpeg"></audio>
+
+<a href="{{ site.baseurl }}">Download podcast</a>.
+
 ### <span class="talk-abstract">Abstract</span>
 
 Over the last 30 years, there have those who have seen the faith movement compete with the entertainment industry over the hearts and minds of the youth in this country. Faith Leaders have complained about the amount of sex, drugs and violence in the entertainment industry (gaming, comics, television and film) while the entertainment industry complains about the dogmatic principalities of religion. In the last 10 years, we have seen a shift in churches producing their own content (God's Not Dead, Fireproof, Courageous) which have been met with a warm reception at the box office and home video. 
