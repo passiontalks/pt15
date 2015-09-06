@@ -10,7 +10,7 @@ Session 2B, 1:40pm, Room 112
 
 <audio controls><source src="{{ site.baseurl }}/audio/2B-molecular-man-biological-determinism-identity.mp3" type="audio/mpeg"></audio>
 
-<a href="{{ site.baseurl }}/audio/2B-molecular-man-biological-determinism-identity.mp3">Download podcast</a>.
+Download: <a href="{{ site.baseurl }}/audio/2B-molecular-man-biological-determinism-identity.mp3">Podcast</a>, <a href="{{ site.baseurl }}/slides/2B-molecular-man-biological-determinism-identity.pdf">Slides</a>
 
 ### <span class="talk-abstract">Abstract</span>
 

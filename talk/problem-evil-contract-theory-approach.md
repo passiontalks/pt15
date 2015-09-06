@@ -10,7 +10,7 @@ Session 1A, 11:00am, Room 114
 
 <audio controls><source src="{{ site.baseurl }}/audio/1A-problem-evil-contract-theory-approach.mp3" type="audio/mpeg"></audio>
 
-<a href="{{ site.baseurl }}/audio/1A-problem-evil-contract-theory-approach.mp3">Download podcast</a>.
+Download: <a href="{{ site.baseurl }}/audio/1A-problem-evil-contract-theory-approach.mp3">Podcast</a>
 
 ### <span class="talk-abstract">Abstract</span>
 

@@ -10,7 +10,7 @@ Session 1A, 11:20am, Room 114
 
 <audio controls><source src="{{ site.baseurl }}/audio/1A-love-your-neighbor-public-square.mp3" type="audio/mpeg"></audio>
 
-<a href="{{ site.baseurl }}/audio/1A-love-your-neighbor-public-square.mp3">Download podcast</a>.
+Download: <a href="{{ site.baseurl }}/audio/1A-love-your-neighbor-public-square.mp3">Podcast</a>, <a href="{{ site.baseurl }}/slides/1A-love-your-neighbor-public-square.pdf">Slides</a>
 
 ### <span class="talk-abstract">Abstract</span>
 

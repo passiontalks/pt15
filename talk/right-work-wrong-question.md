@@ -8,10 +8,6 @@ permalink: "talk/right-work-wrong-question/index.html"
 
 Session 3A, 2:30pm, Room 114
 
-<audio controls><source src="{{ site.baseurl }}" type="audio/mpeg"></audio>
-
-<a href="{{ site.baseurl }}">Download podcast</a>.
-
 ### <span class="talk-abstract">Abstract</span>
 
 Many Christians are concerned about doing God's will as they make major decisions about their work: they want to choose the right field of study, the right job, or the right career path.  This is well intended, but it often causes a great deal of stress, because the focus on selecting the "right work" sets up a value scale that elevates some positions (e.g., "ministry") over others.

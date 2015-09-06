@@ -10,7 +10,7 @@ Session 1B, 11:00am, Room 112
 
 <audio controls><source src="{{ site.baseurl }}/audio/1B-orderofnature-miracles-specificpoint-miracles.mp3" type="audio/mpeg"></audio>
 
-<a href="{{ site.baseurl }}/audio/1B-orderofnature-miracles-specificpoint-miracles.mp3">Download podcast</a>.
+Download: <a href="{{ site.baseurl }}/audio/1B-orderofnature-miracles-specificpoint-miracles.mp3">Podcast</a>
 
 ### <span class="talk-abstract">Abstract</span>
 

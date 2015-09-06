@@ -8,9 +8,7 @@ permalink: "talk/charis-before-christ-discussion-grace/index.html"
 
 Session 2A, 1:00pm, Room 114
 
-<audio controls><source src="{{ site.baseurl }}" type="audio/mpeg"></audio>
-
-<a href="{{ site.baseurl }}">Download podcast</a>.
+Download: <a href="{{ site.baseurl }}/slides/2A-charis-before-christ-discussion-grace.pdf">Slides</a>
 
 ### <span class="talk-abstract">Abstract</span>
 

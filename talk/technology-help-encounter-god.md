@@ -10,7 +10,7 @@ Session 2C, 1:00pm, Room 106
 
 <audio controls><source src="{{ site.baseurl }}/audio/2C-technology-help-encounter-god.mp3" type="audio/mpeg"></audio>
 
-<a href="{{ site.baseurl }}/audio/2C-technology-help-encounter-god.mp3">Download podcast</a>.
+Download: <a href="{{ site.baseurl }}/audio/2C-technology-help-encounter-god.mp3">Podcast</a>
 
 ### <span class="talk-abstract">Abstract</span>
 

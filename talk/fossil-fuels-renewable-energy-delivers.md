@@ -10,7 +10,7 @@ Session 3B, 2:10pm, Room 112
 
 <audio controls><source src="{{ site.baseurl }}/audio/3B-fossil-fuels-renewable-energy-delivers.mp3" type="audio/mpeg"></audio>
 
-<a href="{{ site.baseurl }}/audio/3B-fossil-fuels-renewable-energy-delivers.mp3">Download podcast</a>.
+Download: <a href="{{ site.baseurl }}/audio/3B-fossil-fuels-renewable-energy-delivers.mp3">Podcast</a>, <a href="{{ site.baseurl }}/slides/3B-fossil-fuels-renewable-energy-delivers.pdf">Slides</a>
 
 ### <span class="talk-abstract">Abstract</span>
 
